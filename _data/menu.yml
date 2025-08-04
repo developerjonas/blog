@@ -31,7 +31,7 @@ entries:
 
   - title: subscribe
     entries:
-      - title: Join My Mailbox (Newsletter)
+      - title: Mailbox
         url: https://developerjonas.com/mailbox
       - title: RSS Feed
         url: /blog/feed.xml
