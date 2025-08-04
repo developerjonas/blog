@@ -1,39 +1,44 @@
-# For documentation on this file, see:
-# https://github.com/riggraz/no-style-please#customize-the-menu
+# Optimized sidebar for developerjonas.com/blog
 
 entries:
-  - title: info
+  - title: about
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
+      - title: My Lab Notes — a personal space for exploring math, physics, code & startup ideas.
       - title: github
         url: https://github.com/developerjonas
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+      - title: email
+        url: mailto:developerjonas@gmail.com
 
-  - title: all posts
+  - title: recent notes
     post_list:
       limit: 5
-      show_more: true    
-      show_more_text: See archive...
+      show_more: true
+      show_more_text: all posts →
       show_more_url: archive.html
 
-  - title: posts by category
-    post_list:
-      category: example2
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
+  - title: categories
+    entries:
+      - title: Code & Dev
+        url: /blog/category/code
+      - title: Physics & Math
+        url: /blog/category/science
+      - title: Startup & Vision
+        url: /blog/category/startup
+      - title: Books & Ideas
+        url: /blog/category/books
 
-  - title: rss
-    url: feed.xml
-  
-  - title: another list
+  - title: subscribe
     entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
-  - title: PRO TIP
+      - title: RSS feed
+        url: /blog/feed.xml
+
+  - title: explore
     entries:
-      - title: read this lab notes for more information
-        url: https://developerjonas.com/blog/lab-notes
+      - title: Archive
+        url: /blog/archive.html
+      - title: About This Blog
+        url: /blog/about
+
+  - title: tip
+    entries:
+      - title: This is my second brain. Write. Refine. Rewire.
