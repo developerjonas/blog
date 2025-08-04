@@ -1,5 +1,3 @@
-# Optimized sidebar for developerjonas.com/blog
-
 entries:
   - title: about
     entries:
@@ -8,8 +6,8 @@ entries:
         url: https://developerjonas.com
       - title: GitHub
         url: https://github.com/developerjonas
-      - title: Email Me
-        url: mailto:developerjonas@gmail.com
+      - title: Mail Me
+        url: mailto:thedeveloperjonas@gmail.com
 
   - title: recent notes
     post_list:
@@ -40,8 +38,10 @@ entries:
     entries:
       - title: Archive
         url: /blog/archive.html
-      - title: About This Blog
+      - title: Overview
         url: /blog/about
+      - title: Hello
+        url: /blog/hello
 
   - title: tip
     entries:
