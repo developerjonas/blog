@@ -19,29 +19,29 @@ entries:
   - title: categories
     entries:
       - title: Code & Dev
-        url: /blog/category/code
+        url: /lab-notes/category/code
       - title: Physics & Math
-        url: /blog/category/science
+        url: /lab-notes/category/science
       - title: Startup & Vision
-        url: /blog/category/startup
+        url: /lab-notes/category/startup
       - title: Books & Ideas
-        url: /blog/category/books
+        url: /lab-notes/category/books
 
   - title: subscribe
     entries:
       - title: Mailbox
         url: https://developerjonas.com/mailbox
       - title: RSS Feed
-        url: /blog/feed.xml
+        url: /lab-notes/feed.xml
 
   - title: explore
     entries:
       - title: Archive
-        url: /blog/archive.html
+        url: /lab-notes/archive.html
       - title: Overview
-        url: /blog/about
+        url: /lab-notes/about
       - title: Hello
-        url: /blog/hello
+        url: /lab-notes/hello
 
   - title: tip
     entries:
