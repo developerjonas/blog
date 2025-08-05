@@ -1,7 +1,7 @@
 entries:
   - title: about
     entries:
-      - title: My Lab Notes — a personal space for exploring math, physics, code & startup ideas.
+      - title: My Lab-Notes — a personal space for exploring math, physics, code & startup ideas.
       - title: Main Website
         url: https://developerjonas.com
       - title: GitHub
@@ -30,7 +30,7 @@ entries:
   - title: subscribe
     entries:
       - title: Mailbox
-        url: https://developerjonas.com/mailbox
+        url: /lab-notes/mailbox
       - title: RSS Feed
         url: /lab-notes/feed.xml
 
