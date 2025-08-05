@@ -2,7 +2,7 @@
 layout: post
 title: "Kabadi to Killer: My Second Computer"
 subtitle: "How I Built a Linux Machine from Scrap That Runs Like a Mac"
-date: 2025-08-04
+date: 2025-08-06
 tags: [linux, diy, scrap-to-tech, innovation, hardware]
 image: /assets/images/kabadi-linux-machine.jpg
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "The Unofficial Syllabus"
 subtitle: "Why I Never Needed a Textbook to Understand Code"
-date: 2025-08-04
+date: 2025-08-05
 tags: [self-learning, education, mindset, unconventional]
 image: /assets/images/unofficial-syllabus-banner.jpg
 ---
