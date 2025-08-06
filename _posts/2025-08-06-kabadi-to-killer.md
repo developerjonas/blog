@@ -28,7 +28,7 @@ It’s about **resourcefulness**.
 ---
 
 🛠️ **What I Did:**
-- Installed lightweight Linux (think Arch or Xubuntu)
+- Installed lightweight Linux (Lubuntu)
 - Removed GUI bloat, configured CLI tooling
 - Tuned performance without SSD
 - Used it for real coding, even deployed small servers
