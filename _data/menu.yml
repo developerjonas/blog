@@ -7,7 +7,7 @@ entries:
       - title: GitHub
         url: https://github.com/developerjonas
       - title: Mail Me
-        url: mailto:thedeveloperjonas@gmail.com
+        url: mailto:hi@developerjonas.com
 
   - title: recent notes
     post_list:
@@ -19,29 +19,29 @@ entries:
   - title: categories
     entries:
       - title: Code & Dev
-        url: /lab-notes/category/code
+        url: /category/code
       - title: Physics & Math
-        url: /lab-notes/category/science
+        url: /category/science
       - title: Startup & Vision
-        url: /lab-notes/category/startup
+        url: /category/startup
       - title: Books & Ideas
-        url: /lab-notes/category/books
+        url: /category/books
 
   - title: subscribe
     entries:
       - title: Mailbox
-        url: /lab-notes/mailbox
+        url: mailbox.developerjonas.com
       - title: RSS Feed
-        url: /lab-notes/feed.xml
+        url: feed.xml
 
   - title: explore
     entries:
       - title: Archive
-        url: /lab-notes/archive.html
+        url: archive.html
       - title: Overview
-        url: /lab-notes/about
+        url: about
       - title: Hello
-        url: /lab-notes/hello
+        url: hello
 
   - title: tip
     entries:
