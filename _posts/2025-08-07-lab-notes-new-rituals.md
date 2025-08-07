@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🌅 New Morning Rituals & Mental Architecture"
+title: "New Morning Rituals & Mental Architecture"
 date: 2025-08-07
 categories: [habits, lab-notes, personal-development]
 tags: [routines, productivity, journaling]

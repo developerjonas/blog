@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "📊 First Week Cloudflare Analytics — The Data Behind developerjonas.com"
+title: "First Week Cloudflare Analytics — The Data Behind developerjonas.com"
 date: 2025-08-08
 categories: [analytics, devops, cloudflare]
 tags: [cloudflare, performance, devlog, site-launch]
