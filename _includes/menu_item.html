@@ -1,4 +1,7 @@
-<ul>
+{%- if include.collection == nil or include.collection.size == 0 -%}
+  <p><strong>DEBUG: Collection is empty or missing</strong></p>
+{%- else -%}
+  <ul>
   {%- for item in include.collection -%}
     <li>
       {%- if item.url -%}
@@ -7,18 +10,14 @@
         {{ item.title }}
       {%- endif -%}
 
-      <!-- DEBUG: Output item keys -->
-      <pre>DEBUG: {{ item | jsonify }}</pre>
-
       {%- if item.post_list -%}
-        {%
-          include post_list.html
-            category=item.post_list.category
-            limit=item.post_list.limit
-            show_more=item.post_list.show_more
-            show_more_text=item.post_list.show_more_text
-            show_more_url=item.post_list.show_more_url
-        -%}
+        {% include post_list.html
+          category=item.post_list.category
+          limit=item.post_list.limit
+          show_more=item.post_list.show_more
+          show_more_text=item.post_list.show_more_text
+          show_more_url=item.post_list.show_more_url
+        %}
       {%- endif -%}
 
       {%- if item.entries -%}
@@ -26,4 +25,5 @@
       {%- endif -%}
     </li>
   {%- endfor -%}
-</ul>
+  </ul>
+{%- endif -%}
