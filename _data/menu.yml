@@ -1,48 +1,53 @@
-entries:
-  - title: about
-    entries:
-      - title: My Lab-Notes — a personal space for exploring math, physics, code & startup ideas.
-      - title: Main Website
-        url: https://developerjonas.com
-      - title: GitHub
-        url: https://github.com/developerjonas
-      - title: Mail Me
-        url: mailto:hi@developerjonas.com
+- title: about
+  entries:
+    - title: LabNotes — a personal lab for exploring ideas in math, physics, code, and startups. This space documents experiments, frameworks, and reflections shaping my long-term journey. I write about code, physics, math, startups, and books. My goal is to build a second brain that helps me think better and create more.
+    - title: Main Website
+      url: https://developerjonas.com
+    - title: GitHub
+      url: https://github.com/developerjonas  
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/developerjonas
+    - title: YouTube
+      url: https://www.youtube.com/@developerjonas
+    - title: Email Me
+      url: mailto:hi@developerjonas.com
 
-  - title: recent notes
-    post_list:
-      limit: 5
-      show_more: true
-      show_more_text: all posts →
-      show_more_url: archive.html
+- title: recent notes
+  post_list:
+    limit: 5
+    show_more: true
+    show_more_text: all posts →
+    show_more_url: /archive.html
 
-  - title: categories
-    entries:
-      - title: Code & Dev
-        url: /category/code
-      - title: Physics & Math
-        url: /category/science
-      - title: Startup & Vision
-        url: /category/startup
-      - title: Books & Ideas
-        url: /category/books
+- title: subscribe
+  entries:
+    - title: Mailbox
+      url: https://mailbox.developerjonas.com
+    - title: RSS Feed
+      url: /feed.xml
 
-  - title: subscribe
-    entries:
-      - title: Mailbox
-        url: mailbox.developerjonas.com
-      - title: RSS Feed
-        url: feed.xml
+- title: explore
+  entries:
+    - title: Archive
+      url: /archive.html
+    - title: Overview
+      url: /about
+    - title: Hello
+      url: /hello
 
-  - title: explore
-    entries:
-      - title: Archive
-        url: archive.html
-      - title: Overview
-        url: about
-      - title: Hello
-        url: hello
+- title: help
+  entries:
+    - title: Help Center
+      url: https://help.developerjonas.com
+    - title: Privacy Policy
+      url: https://help.developerjonas.com/privacy
+    - title: Terms & Conditions
+      url: https://help.developerjonas.com/terms
+    - title: FAQs
+      url: https://help.developerjonas.com/faq
+    - title: Contact & Support
+      url: https://help.developerjonas.com/contact
 
-  - title: tip
-    entries:
-      - title: This is my second brain. Write. Refine. Rewire.
+- title: tip
+  entries:
+    - title: This is my second brain. Write. Refine. Rewire.
