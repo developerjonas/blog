@@ -35,3 +35,6 @@ jektex:
   macros:
     - ["\\Q", "\\mathbb{Q}"]
     - ["\\C", "\\mathbb{C}"]
+
+google_analytics: G-9GXM8BY99P
+
