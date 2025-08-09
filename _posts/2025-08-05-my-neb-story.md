@@ -28,7 +28,7 @@ I learned by watching videos like NileRed, understanding concepts intuitively, a
 
 I didn’t buy the class 12 book.  
 Instead, I built a forum called **BrainOverflow** using vanilla PHP.  
-I coded projects for nine classmates and worked with Node.js while lessons were still basic JavaScript.
+I coded projects for nine friends and worked with Node.js while lessons were still basic JavaScript.
 
 **Result:** A+ in both theory and practical.
 
