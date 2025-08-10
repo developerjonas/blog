@@ -36,7 +36,7 @@ I coded projects for nine friends and worked with Node.js while lessons were sti
 
 ## 🧲 Physics
 
-Physics is a language I see in my mind’s eye.  
+Physics is a language I see in my mind’s eye.
 I visualized forces and systems through videos, labs, and raw curiosity.
 
 **Result:** A in theory, A+ in practical.
