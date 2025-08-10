@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome to DeveloperJonas.com: Where Mathematics, Physics, and Code Converge to Build the Future"
+title: "Mathematics, Physics, and Code Converge to Build the Future"
 date: 2025-08-10 08:00:00 +0545
 categories: tech education
 tags: [mathematics, physics, coding, innovation, development]
